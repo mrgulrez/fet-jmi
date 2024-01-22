@@ -1,3 +1,7 @@
-# Faculty of Engineering and Technology Jamia Millia Islamia, Delhi
+# JMI University Website
 
-## [Click here for live](https://jamiamilliaislamia.netlify.app/)
+## Overview
+
+Welcome to the un-official website of Jamia Millia Islamia (JMI) University. This repository contains the source code and resources for the university's website, showcasing information about the institution, academic programs, events, and more.
+
+**Live Link:** [https://jamiamilliaislamia.netlify.app/](https://jamiamilliaislamia.netlify.app/)
